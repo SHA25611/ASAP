@@ -2,7 +2,7 @@
 
 It Stands for Application server automated provisioning.
 The project helps in real fast provisioning of large domains
-of application server infrastructure.
+of application servers inside the infrastructure.
 
 Tools & technologies used are :-
 Ansible,
